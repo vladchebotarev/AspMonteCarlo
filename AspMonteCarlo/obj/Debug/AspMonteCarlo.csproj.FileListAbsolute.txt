@@ -1,0 +1,6 @@
+C:\Users\Lenovo_500_i7\Desktop\kolos\AspMonteCarlo\AspMonteCarlo\bin\AspMonteCarlo.dll.config
+C:\Users\Lenovo_500_i7\Desktop\kolos\AspMonteCarlo\AspMonteCarlo\bin\AspMonteCarlo.dll
+C:\Users\Lenovo_500_i7\Desktop\kolos\AspMonteCarlo\AspMonteCarlo\bin\AspMonteCarlo.pdb
+C:\Users\Lenovo_500_i7\Desktop\kolos\AspMonteCarlo\AspMonteCarlo\obj\Debug\AspMonteCarlo.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo_500_i7\Desktop\kolos\AspMonteCarlo\AspMonteCarlo\obj\Debug\AspMonteCarlo.dll
+C:\Users\Lenovo_500_i7\Desktop\kolos\AspMonteCarlo\AspMonteCarlo\obj\Debug\AspMonteCarlo.pdb
